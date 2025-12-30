@@ -10,4 +10,4 @@ With a **$900B market cap** in 2023 and minimal regulation, retail gift cards re
 ---
 
 ![UC Berkeley Fintech: Frameworks, Applications and Strategies Certificate](images/KV_Berkeley_Fintech_Frameworks_Applications_and_Strategies_Certificate.jpg)
-*UC Berkeley Certificaate: Berkeley Fintech: Frameworks, Applications and Strategies*
+*UC Berkeley FinTech Certificaate: Frameworks, Applications and Strategies*
