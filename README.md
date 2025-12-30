@@ -1,10 +1,11 @@
 # Berkeley FinTech: Frameworks, Applications, and Strategies
 
-Here you will find my capstone project, giftopia, for the FinTech program offerred through UC Berkeley's ExecEd.
+This repository contains the coursework and capstone project for the **UC Berkeley Executive Education FinTech program**.
 
-With a $900B market cap in 2023 and little regulations, retail gift-cards are a niche and untapped FinTech market estimated to grow to $2T by 2030. This capstone project tends to offer a new framework for a successful startup in this sector.
+## 🚀 Capstone Project: Giftopia
+With a **$900B market cap** in 2023 and minimal regulation, retail gift cards represent a massive, untapped FinTech opportunity estimated to reach **$2T by 2030**. **Giftopia** provides a strategic framework for a startup to innovate within this sector.
 
-Presentation slides inside giftopia folder: [giftopia](https://github.com/kooroshvaziri/Berkeley_FinTech/blob/main/giftopia/berkeley_fintech_capstone_giftopia_final_by_kooroshvaziri.pdf)
+* **View Presentation:** [Giftopia Capstone Slides](https://github.com/kooroshvaziri/Berkeley_FinTech/blob/main/giftopia/berkeley_fintech_capstone_giftopia_final_by_kooroshvaziri.pdf)
 
 ---
 
